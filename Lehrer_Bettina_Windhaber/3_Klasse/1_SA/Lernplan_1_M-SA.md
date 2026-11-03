@@ -156,7 +156,7 @@
 - **Zusatz:** Übung 12 Seite 2 · Online-AB S25 · Pool Nr. 27
 
 ## Tag 8 – Mo 9.11. · Probe-Schularbeit (nichts Neues)
-- 50 min Probe-SA unter echten Bedingungen (wie die Beispiel-SA: **Teil 1 Grundkompetenzen ~20 P**, **Teil 2 Anwendung ~28 P**, 48 P)
+- 50 min Probe-SA unter echten Bedingungen. **Aufbau** wie die Beispiel-SA (**Teil 1 Grundkompetenzen ~20 P**, **Teil 2 Anwendung ~28 P**, 48 P), **Inhalt** ausschließlich aus dem heurigen Stoff (Hefte)
 - danach gemeinsam korrigieren, Fehler besprechen, Merkzettel durchgehen
 
 **Bauplan der Probe-SA (aus den Heft-Aufgabentypen)**
@@ -175,16 +175,17 @@
 | 2 | Brüche · und : mit Vorzeichen, über Kreuz kürzen | Nr. 129, 147 |
 | 2 | KlaPuStri mit ganzen Zahlen, eckige Klammern | Nr. 155, 168 |
 | 2 | Bruchterm mit Klammern (gekürzt + Dezimalzahl) | Nr. 172 |
-| 2 | „Wie oft passt 1/8 in 2 1/2?“ (Division als Text) | TH 2.2, Beispiel-SA |
+| 2 | „Wie oft passt 1/8 in 3/4?“ (Division als Text/Bild) | TH 2.2 |
 
 ---
 
 ## Was die Beispiel-SA über die Lehrerin verrät
+*Die Beispiel-SA stammt aus der vorigen Schulstufe. Sie zeigt nur, **wie** die Lehrerin Schularbeiten aufbaut, nicht **was** heuer drankommt. Die Inhalte kommen ausschließlich aus den Heften.*
+- Aufbau: Teil 1 Grundkompetenzen / Teil 2 Anwendung, 48 P
 - **Antwortsatz** und **Einheiten** bei Textaufgaben werden ausdrücklich verlangt (im Heft: `Rechnung:` / `Antwort:`)
 - Ergebnisse **kürzen** und in **gemischte Zahl** umwandeln
 - „Heft“-Aufgaben = ausführlicher Rechenweg
-- wahr/falsch-Tabellen und Tabellen ausfüllen in Teil 1
-- Textaufgaben mit Brüchen („Wie viele 1/8 passen in 2 1/2?“ → Division)
+- Aufgabenformate in Teil 1: wahr/falsch-Tabellen, Tabellen ausfüllen
 
 ## Offene Punkte
 - Lösungen zu den Heft-Varianten (z. B. 113, 129 d, 147 untere Zeile, 155 d, 156 c/d, 168 a–d, 172 a) können bei Bedarf erstellt werden → `Lösungen/`

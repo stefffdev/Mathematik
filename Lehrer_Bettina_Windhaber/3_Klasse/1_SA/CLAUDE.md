@@ -4,7 +4,7 @@ Lernbegleitung für die Tochter: Der Vater lernt mit ihr vom 2.11. bis 9.11.2026
 
 ## Ordner
 - `1_SA_Stoff.pdf` – Lernziele der Lehrerin (rationale Zahlen + Brüche)
-- `Beispiel Schularbeit …2A.pdf` – Referenz-SA der Lehrerin (Stil: Teil 1 Grundkompetenzen / Teil 2 Anwendung, 48 P, Antwortsatz + Einheiten, kürzen, gemischte Zahlen)
+- `Beispiel Schularbeit …2A.pdf` – SA der Lehrerin aus der **vorigen Schulstufe (2. Klasse)**. Sie dient **nur als Vorlage für Aufbau und Stil** (Teil 1 Grundkompetenzen / Teil 2 Anwendung, 48 P, Antwortsatz + Einheiten, kürzen, gemischte Zahlen). Ihre Inhalte sind **nicht** heuriger Stoff und werden für Plan und Probe-SA nicht verwendet.
 - `Buch/` – Buchseiten Lösungswege 3 (S. 7–50, PNG; keine Lösungen vorhanden)
 - `Arbeitsblätter/`, `Übungen/` – Übungszettel der Lehrerin (`_Lsg` bzw. `arb_01_loesungen` = Lösungen)
 - `Lösungen/` – Online-Arbeitsblätter lw3_ab_Sxx (S. 1 Aufgaben, S. 2 Lösungen); **selbst erstellte Lösungen kommen ebenfalls hierher**
