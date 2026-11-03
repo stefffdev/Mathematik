@@ -66,7 +66,7 @@
 | F6 | HÜ Nr. 129 | **Minus vergessen:** (+2/3)·(−3/4) = 1/2, (+7/9)·(−1/2) = 7/18 | **−1/2**, **−7/18** (Vorzeichen zuerst festlegen!) |
 | F7 | Buch Nr. 15 C | „−2,7 liegt näher an −2 als an −3“ angekreuzt | **falsch**, Abstand 0,7 zu −2, aber 0,3 zu −3 |
 | F8 | Buch KT 1.5 | −101,5 bei ℤ⁻ und ℤ angekreuzt | nur **ℚ⁻, ℚ** (keine ganze Zahl!) |
-| F9 | Buch Nr. 13 c | −2 1/3 > −2 1/4 | **<** (bei negativen Zahlen: größerer Betrag = kleiner) |
+| F9 | Buch Nr. 13 c | −2 1/2 > −2 1/4 | **<** (bei negativen Zahlen: größerer Betrag = kleiner) |
 | F10 | SÜ Bsp. nach 172 b | (+3/5) + (−5/7) = −2/5 (Zähler und Nenner einfach verrechnet) | 21/35 − 25/35 = **−4/35**; Gesamtergebnis (−3/5) : (−4/35) = **5 1/4** |
 | F11 | SÜ Nr. 172 d (3.11.) | **Strich vor Punkt gerechnet** (8 2/3 − … zuerst), außerdem 161/30 : 69/30 = 7/30 | Zuerst beide Klammern: 27/10 : 9/10 = 3, dann 8 2/3 − 3 = **5 2/3** |
 
