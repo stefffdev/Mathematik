@@ -2,7 +2,7 @@
 
 **Stoff:** Rationale Zahlen + Brüche
 **Zeitraum:** Mo 2.11. – Mo 9.11. (8 Tage, je 1–2 h). Tag 8 = Probe-SA, nichts Neues.
-**Stand:** 3.11.2026, nach Durchsicht der Hefte (`Hefte/`: Schulübung, Hausübung, Theorie, Übungen im Buch)
+**Stand:** 4.11.2026 (Tag 4–7 umgeplant: · und : ab Tag 4, Bruchterme wie Nr. 172 d ab Tag 5), Hefte durchgesehen am 3.11. (`Hefte/`: Schulübung, Hausübung, Theorie, Übungen im Buch)
 
 **Grundprinzip (neu):**
 1. **Heft zuerst:** Aufgaben aus Schulübung/Hausübung noch einmal rechnen, *ohne ins Heft zu schauen*. Danach die **nicht gerechneten Teilaufgaben derselben Nummer** als „ähnliche Varianten“. Die SA wird vermutlich aus solchen Beispielen bestehen.
@@ -91,69 +91,61 @@
 - **Mini-Test:** KT S. 30: **1.3, 1.6, 1.7**
 - **Zusatz:** Nr. 35 (S. 13, Tauchboot) · AB Höhenunterschiede · S. 26 Nr. 96
 
-## Tag 3 – Mi 4.11. · Addieren & Subtrahieren (ganze/Dezimalzahlen) + Textaufgaben
-**Lernziele:** Subtraktion = Addition der Gegenzahl · Klammern auflösen (+(−) → −, −(−) → +) · algebraische Summen · Textaufgaben mit **Rechnung + Antwort**
+## Tag 3 – Mi 4.11. · Addieren & Subtrahieren + Brüche +/− + erstes Multiplizieren ✔
+*(umgesetzt in `Tagesübungen/Tag3_04-11_Uebung.pdf`, Entwurf: `Tag3_04-11_Entwurf.md`)*
+- Heft: Nr. 51 a, 61 a (F2, F3) + Varianten · Nr. 70 b, d, 71 b + Variante · Nr. 118 a, b (F5) + 2 Varianten
+- **vorgezogen:** Brüche +/− (Nr. 113 c, 61 d mit F4 + Varianten) · Brüche multiplizieren (Nr. 290 a, F6) · Punkt vor Strich (Nr. 155 a–c + Varianten)
+- Zettel: Übung 03 Seite 1 · Mini-Test: KT 1.8 a, c + 4 Rechnungen (8 P)
+- Gestrichen: Mittelwert Nr. 56, Rechengeschichten Nr. 48, Pool Nr. 10/14
 
-- Theorie: **TH** „1.3 Addition und Subtraktion“ + Gesamtübersicht Klammern auflösen
+## Tag 4 – Do 5.11. · Brüche +/− festigen, Dezimalzahl ↔ Bruch, **Multiplizieren & Dividieren**
+**Lernziele:** gemeinsamer Nenner, gemischte Zahlen, Ergebnis kürzen + als gemischte Zahl · Dezimalzahl ↔ Bruch (Stunde vom 3.11.) · **zuerst das Vorzeichen, dann der Betrag** · über Kreuz kürzen · Dividieren = mit dem **Kehrwert** multiplizieren · gemischte Zahlen vor · und : in unechte Brüche
+
+- Theorie: **SÜ vom 3.11.** (0,5 = 5/10 = 1/2; 1/5 = 2/10 = 0,2) · **TH** „1.4 Multiplikation u. Division“ + „2.1/2.2 Bruchrechnen“ (inkl. „Wie oft passt 1/8 in 3/4?“)
 - **Heft (Pflicht)**
-  - **Nr. 51 a, 61 a, 63** neu (F2, F3) · Varianten: **Nr. 51 b, c**
-  - **Nr. 70 a–d** neu · Variante **Nr. 71 a, b** (S. 22)
-  - **Nr. 118 a, b** (S. 29) neu, mit Rechnung + Antwort (F5) · **Nr. 56** (Mittelwert, S. 19) neu
-  - **Nr. 48** (S. 18): zu (2) und (4) neue eigene Rechengeschichten erfinden
-- **Zettel:** Online-AB **S15_1**, **S17** · **Übung 03** · **Pool** Nr. 10 (Konto/Wasserstand), 14
-- **Mini-Test:** KT S. 30: **1.8 a–c** (Textaufgaben, mit Antwortsatz)
-- **Zusatz:** Nr. 57 a–d (S. 19) · AB Aufgaben ergänzen · S. 18 Nr. 49
+  - Brüche +/−: **Nr. 113 a, b, d** (je 2 Zeilen, S. 28). Bei d Dezimalzahl zuerst in Bruch umwandeln · **Nr. 71 c** (S. 22)
+  - **Dezimal ↔ Bruch** (selbst diktieren, kurz): 0,25 · 0,75 · −0,6 · 1,5 · −2,25 · 0,125 → Bruch gekürzt; 3/4 · 2/5 · −7/20 · 1 1/2 → Dezimalzahl
+  - Multiplizieren: **Nr. 129 a, b** neu (**F6, Vorzeichen zuerst!**) · **129 c** neu · Variante **129 d** (S. 33) · **Nr. 124, 125** (S. 32–33)
+  - Dividieren: **Nr. 147 a–d obere Zeile** neu (S. 36) · Varianten mit gemischten Zahlen und Vorzeichen
+- **Zettel:** **Übung 09** Seite 1 · **Übung 10** Seite 1 · Online-AB **S37**
+- **Mini-Test:** KT S. 31: **1.12** · KT S. 50: **1.20, 1.21**
+- **Zusatz:** Übung 09 Seite 2 · Pool Nr. 15, 16 · S. 28 Nr. 110 c (Fehler finden) · S. 35 Nr. 145 (Division durch 0)
 
-## Tag 4 – Do 5.11. · Brüche addieren/subtrahieren + Dezimalzahl ↔ Bruch
-**Lernziele:** gemeinsamer Nenner, gemischte Zahlen, negative Brüche · Ergebnis kürzen + als gemischte Zahl · Dezimalzahl in Bruch und umgekehrt (aktuelle Stunde!)
+## Tag 5 – Fr 6.11. · Multiplizieren/Dividieren festigen + Vorrangregeln + **erster langer Bruchterm (Nr. 172 d)**
+**Lernziele:** Klammer → Punkt → Strich, Klammern von innen nach außen · Zwischenergebnisse sofort kürzen · bei langen Termen **in Etappen** rechnen (jede Klammer als NR am Rand, dann einsetzen) · Ziel des Tages: eine Rechnung wie **Nr. 172 d** ohne Hilfe richtig lösen
 
-- Theorie: **SÜ vom 3.11.** (0,5 = 5/10 = 1/2; 1/5 = 2/10 = 0,2) · TH 1.1 (0,2 = 2/10 = 1/5; −0,378 = −378/1000)
+- Theorie: **TH** „1.5 Rechengesetze“ (KlaPuStri-Gesicht, {[( )]}-Beispiel)
 - **Heft (Pflicht)**
-  - **Nr. 61 d** und **Nr. 113 c** (alle drei Zeilen) neu (F4)
-  - Varianten: **Nr. 113 a, b, d** (alle Zeilen, S. 28). Bei d Dezimalzahl zuerst in Bruch umwandeln
-  - **Nr. 71 c** (S. 22)
-  - **Dezimal ↔ Bruch** (selbst diktieren, je 2 min): 0,25 · 0,75 · 0,4 · −0,6 · 1,5 · −2,25 · 0,125 → Bruch gekürzt; 3/4 · 2/5 · −7/20 · 1 1/2 · 3/8 → Dezimalzahl
-- **Zettel:** **Übung 09** Seite 1 + 2 · Online-AB **S37**, **S37_2**
-- **Mini-Test:** KT S. 31: **1.12, 1.13**
-- **Zusatz:** **Übung 06** (Länder erobern) · Pool Nr. 15, 16 · S. 28 Nr. 110 c (Fehler finden)
+  - Aufwärmen: **Nr. 147 untere Zeile** (Dezimalzahlen zuerst in Brüche) · Variante **Nr. 130 a–d** (S. 33)
+  - KlaPuStri ganz/Dezimal: **Nr. 155 d**, **156 a, b** neu (S. 37) · **Nr. 168 e, f** neu (S. 39)
+  - **Bruchterme in Etappen:** zuerst die Bausteine von 172 d einzeln (Klammer mit gemischten Zahlen, Klammer mit −(−), Division zweier Brüche, Subtraktion von einer gemischten Zahl), dann **Nr. 172 b, c** neu und **172 d** neu (F11, Ergebnis 5 2/3)
+  - Beispiel der Lehrerin: (−3/5) : [(+3/5) + (−5/7)] neu (F10, Ergebnis 5 1/4)
+  - Textaufgabe mit Division: **Nr. 216 a** (S. 48, Kühlraum: (−20 − 16) : 12 = −3 °C pro Stunde), mit Rechnung + Antwort
+- **Zettel:** **Übung 10** Seite 2 · Online-AB **S38**, **S40** · **Übung 13** Seite 1
+- **Mini-Test:** KT S. 50: **1.22, 1.23, 1.24** · **Nr. 207** (S. 46, „Berechne, wenn möglich“, Division durch 0)
+- **Zusatz:** **Nr. 167** (S. 39, Niklas' Fehler = Fehlerart von F11) · Online-AB S39 · Buch S. 47 Nr. 212 **Bingo**
 
-## Tag 5 – Fr 6.11. · Multiplizieren & Dividieren (Brüche mit Vorzeichen)
-**Lernziele:** **zuerst das Vorzeichen, dann der Betrag** · vor dem Multiplizieren über Kreuz kürzen · Dividieren = mit dem Kehrwert multiplizieren · Division durch 0 nicht möglich
+## Tag 6 – Sa 7.11. · Vorrangregeln + Bruchterme vertiefen
+**Lernziele:** lange Terme sicher nach KlaPuStri · runde vor eckigen vor geschwungenen Klammern · Ergebnis gekürzt **und** als Dezimalzahl (Aufgabenstellung Nr. 172)
 
-- Theorie: **TH** „1.4 Multiplikation u. Division“ + „2.1/2.2 Bruchrechnen“ (inkl. „Wie oft passt 1/8 in 3/4?“)
 - **Heft (Pflicht)**
-  - **Nr. 129 a, b** neu (**F6, bei jeder Aufgabe zuerst das Vorzeichen hinschreiben!**) · **129 c** neu · Variante **129 d** (S. 33)
-  - **Nr. 124, 125** (S. 32–33) neu
-  - **Nr. 147 a–d obere Zeile** neu · Variante **147 untere Zeile** (Dezimalzahlen zuerst in Brüche umwandeln, S. 36)
-  - Variante **Nr. 130 a–h** (S. 33, Dezimal mal Bruch)
-- **Zettel:** **Übung 10** Seite 1 + 2 · Online-AB **S38**, **S39**
-- **Mini-Test:** KT S. 50: **1.20, 1.21, 1.22, 1.24** · S. 35 Nr. 145 (Division durch 0)
-- **Zusatz:** Übung 04 · Online-AB S18 · Buch S. 47 Nr. 212 **Bingo**
-
-## Tag 6 – Sa 7.11. · Vorrangregeln (KlaPuStri) mit ganzen und Dezimalzahlen
-**Lernziele:** Klammer → Punkt → Strich, sonst von links nach rechts · runde vor eckigen vor geschwungenen Klammern · Zwischenschritte mit `=` untereinander · NR am Rand
-
-- Theorie: **TH** „1.5 Rechengesetze“ (KlaPuStri-Gesicht, {[( )]}-Beispiel, Rechengesetze)
-- **Heft (Pflicht)**
-  - **Nr. 155 a–c** und **156 a, b** neu · Varianten: **155 d**, **156 c, d** (S. 37)
-  - **Nr. 168 e, f** neu · Varianten: **168 a–d** (S. 39, alle von Hand lösbar)
-  - **Nr. 158** (S. 37): Carolas Fehler finden
-- **Zettel:** Online-AB **S22**, **S40** · **AB Terme** (Labyrinth) · **Pool** Nr. 25, 26
-- **Mini-Test:** KT S. 50: **1.23**
+  - Varianten **Nr. 156 c, d**, **168 a–d** (S. 37/39, alle von Hand lösbar) · **Nr. 158** (Carolas Fehler finden)
+  - **Nr. 172 a** · eigene Varianten im Stil von 172 d (2–3 Stück)
+  - **Nr. 167** (falls an Tag 5 nicht geschafft)
+- **Zettel:** **Übung 13** Seite 2 · **Übung 12** Seite 1 · **AB Terme** (Labyrinth) · Online-AB **S22** · **Pool** Nr. 25, 26
+- **Mini-Test:** KT S. 50: **1.25–1.27** (soweit ohne Taschenrechner)
 - **Zusatz:** **Übung 07** · Online-AB S41 · S. 38 Nr. 159 (Text → Term)
 
-## Tag 7 – So 8.11. · Terme mit Brüchen (Schwerpunkt der letzten Stunden) + Fehlerheft
-**Lernziele:** lange Bruchterme sicher nach KlaPuStri · gemischte Zahlen zuerst in unechte Brüche · Ergebnis gekürzt **und** als Dezimalzahl (Aufgabenstellung Nr. 172)
+## Tag 7 – So 8.11. · Fehlerheft + gemischte Wiederholung
+**Lernziele:** alle Fehler F1–F11 und die der letzten Tage sitzen · Merkzettel fertig
 
 - **Zuerst Fehlerheft (30 min):** F1–F11 + alle Fehler von Tag 2–6 noch einmal rechnen
-- **Heft (Pflicht)**
-  - **Nr. 172 b, c** neu · **172 d** neu (F11, Ergebnis 5 2/3) · Variante **172 a**
-  - Beispiel der Lehrerin: (−3/5) : [(+3/5) + (−5/7)] neu (F10, Ergebnis 5 1/4)
-  - **Nr. 167** (S. 39): Niklas' Fehler finden (genau die Fehlerart von F11)
-- **Zettel:** **Übung 13** Seite 1 + 2 · **Übung 12** Seite 1
-- **Mini-Test:** KT S. 50: **1.25–1.29** (soweit ohne Taschenrechner)
+- **Heft (Pflicht):** **Nr. 172 b–d** und das Beispiel der Lehrerin noch einmal ohne nachzuschauen · je 2 Aufgaben aus jedem Thema (Zahlenmengen, Nr. 15, Betrag, Textaufgabe, Brüche +/−, · und :)
+- **Lücken aus dem Lernzielblatt schließen:** KT S. 30 **1.1, 1.2** (Zahlen auf der Zahlengeraden einzeichnen) · **KT 1.17** (3 Bedeutungen des Minus) · **Nr. 204 a–d** (S. 46, gemischt) · **Nr. 208 a** (S. 46, Vorzeichen bei mehreren Faktoren)
+- **Zettel:** **Übung 12** Seite 2 · Online-AB S25 · Pool Nr. 27
+- **Mini-Test:** KT S. 50: **1.28, 1.29** (soweit ohne Taschenrechner)
 - Zum Abschluss: **Merkzettel** selbst schreiben lassen (alle Regeln auf 1 A4-Seite, Vorlage = Theorieheft)
-- **Zusatz:** Übung 12 Seite 2 · Online-AB S25 · Pool Nr. 27
+- **Zusatz:** Übung 04 · Online-AB S18
 
 ## Tag 8 – Mo 9.11. · Probe-Schularbeit (nichts Neues)
 - 50 min Probe-SA unter echten Bedingungen. **Aufbau** wie die Beispiel-SA (**Teil 1 Grundkompetenzen ~20 P**, **Teil 2 Anwendung ~28 P**, 48 P), **Inhalt** ausschließlich aus dem heurigen Stoff (Hefte)
