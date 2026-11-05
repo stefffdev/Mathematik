@@ -69,6 +69,8 @@
 | F9 | Buch Nr. 13 c | −2 1/2 > −2 1/4 | **<** (bei negativen Zahlen: größerer Betrag = kleiner) |
 | F10 | SÜ Bsp. nach 172 b | (+3/5) + (−5/7) = −2/5 (Zähler und Nenner einfach verrechnet) | 21/35 − 25/35 = **−4/35**; Gesamtergebnis (−3/5) : (−4/35) = **5 1/4** |
 | F11 | SÜ Nr. 172 d (3.11.) | **Strich vor Punkt gerechnet** (8 2/3 − … zuerst), außerdem 161/30 : 69/30 = 7/30 | Zuerst beide Klammern: 27/10 : 9/10 = 3, dann 8 2/3 − 3 = **5 2/3** |
+| F12 | Tag 3 Mini-Test | −7 + 3 = 10 | **−4** (verschiedene Vorzeichen: Beträge minus, Vorzeichen der größeren) |
+| F13 | Tag 3 Aufg. 3 | (−4,3) − (−12,8) = 8,6 | **8,5** (schriftlich, Komma unter Komma) |
 
 → **Muster:** Die Rechenregeln sitzen, aber die **Vorzeichen** gehen verloren (F1–F3, F6). Außerdem fehlt die Sicherheit bei **Brüchen mit verschiedenen Nennern innerhalb längerer Terme** (F10, F11). Genau das kommt ganz am Ende des SA-Stoffs. Deshalb bekommen Tag 6 und 7 mehr Zeit.
 
@@ -98,18 +100,12 @@
 - Zettel: Übung 03 Seite 1 · Mini-Test: KT 1.8 a, c + 4 Rechnungen (8 P)
 - Gestrichen: Mittelwert Nr. 56, Rechengeschichten Nr. 48, Pool Nr. 10/14
 
-## Tag 4 – Do 5.11. · Brüche +/− festigen, Dezimalzahl ↔ Bruch, **Multiplizieren & Dividieren**
-**Lernziele:** gemeinsamer Nenner, gemischte Zahlen, Ergebnis kürzen + als gemischte Zahl · Dezimalzahl ↔ Bruch (Stunde vom 3.11.) · **zuerst das Vorzeichen, dann der Betrag** · über Kreuz kürzen · Dividieren = mit dem **Kehrwert** multiplizieren · gemischte Zahlen vor · und : in unechte Brüche
-
-- Theorie: **SÜ vom 3.11.** (0,5 = 5/10 = 1/2; 1/5 = 2/10 = 0,2) · **TH** „1.4 Multiplikation u. Division“ + „2.1/2.2 Bruchrechnen“ (inkl. „Wie oft passt 1/8 in 3/4?“)
-- **Heft (Pflicht)**
-  - Brüche +/−: **Nr. 113 a, b, d** (je 2 Zeilen, S. 28). Bei d Dezimalzahl zuerst in Bruch umwandeln · **Nr. 71 c** (S. 22)
-  - **Dezimal ↔ Bruch** (selbst diktieren, kurz): 0,25 · 0,75 · −0,6 · 1,5 · −2,25 · 0,125 → Bruch gekürzt; 3/4 · 2/5 · −7/20 · 1 1/2 → Dezimalzahl
-  - Multiplizieren: **Nr. 129 a, b** neu (**F6, Vorzeichen zuerst!**) · **129 c** neu · Variante **129 d** (S. 33) · **Nr. 124, 125** (S. 32–33)
-  - Dividieren: **Nr. 147 a–d obere Zeile** neu (S. 36) · Varianten mit gemischten Zahlen und Vorzeichen
-- **Zettel:** **Übung 09** Seite 1 · **Übung 10** Seite 1 · Online-AB **S37**
-- **Mini-Test:** KT S. 31: **1.12** · KT S. 50: **1.20, 1.21**
-- **Zusatz:** Übung 09 Seite 2 · Pool Nr. 15, 16 · S. 28 Nr. 110 c (Fehler finden) · S. 35 Nr. 145 (Division durch 0)
+## Tag 4 – Do 5.11. · Fehler von Tag 3 + **Brüche multiplizieren & dividieren** (kurzer Tag)
+*(umgesetzt in `Tagesübungen/Tag4_05-11_Uebung.pdf`, Entwurf: `Tag4_05-11_Entwurf.md`)*
+- Nachholen: verschiedene Vorzeichen (F2, F12) · Dezimal (F13) · unechter Bruch → gemischte Zahl · Punkt vor Strich mit Klammern
+- NEU: Nr. 129 b, d · „Wie oft passt 1/8 in 3/4?“ · Nr. 147 a–d obere Zeile + 2 Varianten
+- Mini-Test 6 P · Zusatz: Übung 10 Seite 1
+- **Verschoben auf Tag 5/6:** Nr. 113 a, b, d · Dezimal ↔ Bruch-Diktat · Nr. 124, 125, 129 c · Übung 09 · Online-AB S37
 
 ## Tag 5 – Fr 6.11. · Multiplizieren/Dividieren festigen + Vorrangregeln + **erster langer Bruchterm (Nr. 172 d)**
 **Lernziele:** Klammer → Punkt → Strich, Klammern von innen nach außen · Zwischenergebnisse sofort kürzen · bei langen Termen **in Etappen** rechnen (jede Klammer als NR am Rand, dann einsetzen) · Ziel des Tages: eine Rechnung wie **Nr. 172 d** ohne Hilfe richtig lösen
@@ -117,6 +113,7 @@
 - Theorie: **TH** „1.5 Rechengesetze“ (KlaPuStri-Gesicht, {[( )]}-Beispiel)
 - **Heft (Pflicht)**
   - Aufwärmen: **Nr. 147 untere Zeile** (Dezimalzahlen zuerst in Brüche) · Variante **Nr. 130 a–d** (S. 33)
+  - Von Tag 4 verschoben (kurz): **Dezimal ↔ Bruch** (0,25 · −0,6 · 1,5 · −2,25 → Bruch; 3/4 · −7/20 · 1 1/2 → Dezimalzahl) · **Nr. 113 d** (eine Zeile)
   - KlaPuStri ganz/Dezimal: **Nr. 155 d**, **156 a, b** neu (S. 37) · **Nr. 168 e, f** neu (S. 39)
   - **Bruchterme in Etappen:** zuerst die Bausteine von 172 d einzeln (Klammer mit gemischten Zahlen, Klammer mit −(−), Division zweier Brüche, Subtraktion von einer gemischten Zahl), dann **Nr. 172 b, c** neu und **172 d** neu (F11, Ergebnis 5 2/3)
   - Beispiel der Lehrerin: (−3/5) : [(+3/5) + (−5/7)] neu (F10, Ergebnis 5 1/4)
@@ -129,6 +126,7 @@
 **Lernziele:** lange Terme sicher nach KlaPuStri · runde vor eckigen vor geschwungenen Klammern · Ergebnis gekürzt **und** als Dezimalzahl (Aufgabenstellung Nr. 172)
 
 - **Heft (Pflicht)**
+  - Von Tag 4 verschoben: **Nr. 113 a, b** (je eine Zeile) · **Nr. 129 c** · Übung 09 Seite 1 als Zettel
   - Varianten **Nr. 156 c, d**, **168 a–d** (S. 37/39, alle von Hand lösbar) · **Nr. 158** (Carolas Fehler finden)
   - **Nr. 172 a** · eigene Varianten im Stil von 172 d (2–3 Stück)
   - **Nr. 167** (falls an Tag 5 nicht geschafft)
@@ -139,7 +137,7 @@
 ## Tag 7 – So 8.11. · Fehlerheft + gemischte Wiederholung
 **Lernziele:** alle Fehler F1–F11 und die der letzten Tage sitzen · Merkzettel fertig
 
-- **Zuerst Fehlerheft (30 min):** F1–F11 + alle Fehler von Tag 2–6 noch einmal rechnen
+- **Zuerst Fehlerheft (30 min):** F1–F13 + alle Fehler von Tag 2–6 noch einmal rechnen
 - **Heft (Pflicht):** **Nr. 172 b–d** und das Beispiel der Lehrerin noch einmal ohne nachzuschauen · je 2 Aufgaben aus jedem Thema (Zahlenmengen, Nr. 15, Betrag, Textaufgabe, Brüche +/−, · und :)
 - **Lücken aus dem Lernzielblatt schließen:** KT S. 30 **1.1, 1.2** (Zahlen auf der Zahlengeraden einzeichnen) · **KT 1.17** (3 Bedeutungen des Minus) · **Nr. 204 a–d** (S. 46, gemischt) · **Nr. 208 a** (S. 46, Vorzeichen bei mehreren Faktoren)
 - **Zettel:** **Übung 12** Seite 2 · Online-AB S25 · Pool Nr. 27
