@@ -154,18 +154,17 @@
 |---|---|---|
 | 1 | Zahlenmengen-Tabelle (5 Zahlen inkl. Dezimalzahl + unechter Bruch) | Nr. 18 **(SA!)** |
 | 1 | „liegt näher an …“, richtige Aussagen ankreuzen | Nr. 15 **(SA!)** |
+| 1 | Zahlengerade: Zahlen (auch Brüche/Dezimalzahlen) einzeichnen und ablesen, Abstand bestimmen | KT 1.1, 1.2 · Nr. 1, 2, 15 |
 | 1 | Gegenzahl/Betrag, auch −\|−a\| | Nr. 25 a |
 | 1 | Ordnen / < > bei negativen Brüchen | Nr. 13 |
 | 1 | Dezimalzahl ↔ gekürzter Bruch | SÜ 3.11. |
 | 1 | 3 Bedeutungen des Minuszeichens | KT 1.17 |
 | 2 | Textaufgabe Temperatur/Höhe mit Rechnung + Antwort | Nr. 118, 1.8 |
-| 2 | Mittelwert mit negativen Zahlen | Nr. 56 |
 | 2 | Algebraische Summe mit Dezimalzahlen | Nr. 70 d |
 | 2 | Brüche +/− mit gemischten Zahlen | Nr. 113 |
 | 2 | Brüche · und : mit Vorzeichen, über Kreuz kürzen | Nr. 129, 147 |
 | 2 | KlaPuStri mit ganzen Zahlen, eckige Klammern | Nr. 155, 168 |
-| 2 | Bruchterm mit Klammern (gekürzt + Dezimalzahl) | Nr. 172 |
-| 2 | „Wie oft passt 1/8 in 3/4?“ (Division als Text/Bild) | TH 2.2 |
+| 2 | **„Monster-Bruchterm“** mit ( ) und [ ], gemischten Zahlen und :, Ergebnis gekürzt + Dezimalzahl (größte Aufgabe, ca. 6 P) | Nr. 172 d |
 
 ---
 
