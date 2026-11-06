@@ -71,6 +71,9 @@
 | F11 | SÜ Nr. 172 d (3.11.) | **Strich vor Punkt gerechnet** (8 2/3 − … zuerst), außerdem 161/30 : 69/30 = 7/30 | Zuerst beide Klammern: 27/10 : 9/10 = 3, dann 8 2/3 − 3 = **5 2/3** |
 | F12 | Tag 3 Mini-Test | −7 + 3 = 10 | **−4** (verschiedene Vorzeichen: Beträge minus, Vorzeichen der größeren) |
 | F13 | Tag 3 Aufg. 3 | (−4,3) − (−12,8) = 8,6 | **8,5** (schriftlich, Komma unter Komma) |
+| F14 | Tag 4 Aufg. 6d | (−9/5) : (−21/10): 9 und 21 durch 9 gekürzt → 2/3 | nur durch 3 kürzbar → **6/7** |
+| F15 | Tag 4 Aufg. 6f | 4 1/8 = 25/8 | 4 · 8 + 1 = **33/8** |
+| F16 | Tag 4 Aufg. 3 | −2/4 gekürzt zu 1/2 (Minus verloren) | **−1/2** |
 
 → **Muster:** Die Rechenregeln sitzen, aber die **Vorzeichen** gehen verloren (F1–F3, F6). Außerdem fehlt die Sicherheit bei **Brüchen mit verschiedenen Nennern innerhalb längerer Terme** (F10, F11). Genau das kommt ganz am Ende des SA-Stoffs. Deshalb bekommen Tag 6 und 7 mehr Zeit.
 
@@ -100,33 +103,27 @@
 - Zettel: Übung 03 Seite 1 · Mini-Test: KT 1.8 a, c + 4 Rechnungen (8 P)
 - Gestrichen: Mittelwert Nr. 56, Rechengeschichten Nr. 48, Pool Nr. 10/14
 
-## Tag 4 – Do 5.11. · Fehler von Tag 3 + **Brüche multiplizieren & dividieren** (kurzer Tag)
+## Tag 4 – Do 5.11. · Fehler von Tag 3 + **Brüche multiplizieren & dividieren** (kurzer Tag) ✔ (Mini-Test 6/6, Zusatz nicht geschafft)
 *(umgesetzt in `Tagesübungen/Tag4_05-11_Uebung.pdf`, Entwurf: `Tag4_05-11_Entwurf.md`)*
 - Nachholen: verschiedene Vorzeichen (F2, F12) · Dezimal (F13) · unechter Bruch → gemischte Zahl · Punkt vor Strich mit Klammern
 - NEU: Nr. 129 b, d · „Wie oft passt 1/8 in 3/4?“ · Nr. 147 a–d obere Zeile + 2 Varianten
 - Mini-Test 6 P · Zusatz: Übung 10 Seite 1
 - **Verschoben auf Tag 5/6:** Nr. 113 a, b, d · Dezimal ↔ Bruch-Diktat · Nr. 124, 125, 129 c · Übung 09 · Online-AB S37
 
-## Tag 5 – Fr 6.11. · Multiplizieren/Dividieren festigen + Vorrangregeln + **erster langer Bruchterm (Nr. 172 d)**
-**Lernziele:** Klammer → Punkt → Strich, Klammern von innen nach außen · Zwischenergebnisse sofort kürzen · bei langen Termen **in Etappen** rechnen (jede Klammer als NR am Rand, dann einsetzen) · Ziel des Tages: eine Rechnung wie **Nr. 172 d** ohne Hilfe richtig lösen
-
-- Theorie: **TH** „1.5 Rechengesetze“ (KlaPuStri-Gesicht, {[( )]}-Beispiel)
-- **Heft (Pflicht)**
-  - Aufwärmen: **Nr. 147 untere Zeile** (Dezimalzahlen zuerst in Brüche) · Variante **Nr. 130 a–d** (S. 33)
-  - Von Tag 4 verschoben (kurz): **Dezimal ↔ Bruch** (0,25 · −0,6 · 1,5 · −2,25 → Bruch; 3/4 · −7/20 · 1 1/2 → Dezimalzahl) · **Nr. 113 d** (eine Zeile)
-  - KlaPuStri ganz/Dezimal: **Nr. 155 d**, **156 a, b** neu (S. 37) · **Nr. 168 e, f** neu (S. 39)
-  - **Bruchterme in Etappen:** zuerst die Bausteine von 172 d einzeln (Klammer mit gemischten Zahlen, Klammer mit −(−), Division zweier Brüche, Subtraktion von einer gemischten Zahl), dann **Nr. 172 b, c** neu und **172 d** neu (F11, Ergebnis 5 2/3)
-  - Beispiel der Lehrerin: (−3/5) : [(+3/5) + (−5/7)] neu (F10, Ergebnis 5 1/4)
-  - Textaufgabe mit Division: **Nr. 216 a** (S. 48, Kühlraum: (−20 − 16) : 12 = −3 °C pro Stunde), mit Rechnung + Antwort
-- **Zettel:** **Übung 10** Seite 2 · Online-AB **S38**, **S40** · **Übung 13** Seite 1
-- **Mini-Test:** KT S. 50: **1.22, 1.23, 1.24** · **Nr. 207** (S. 46, „Berechne, wenn möglich“, Division durch 0)
-- **Zusatz:** **Nr. 167** (S. 39, Niklas' Fehler = Fehlerart von F11) · Online-AB S39 · Buch S. 47 Nr. 212 **Bingo**
+## Tag 5 – Fr 6.11. · Fehler von Tag 4 + eckige Klammern + **Monster-Bruch Nr. 172 d**
+*(umgesetzt in `Tagesübungen/Tag5_06-11_Uebung.pdf`, Entwurf: `Tag5_06-11_Entwurf.md`)*
+- Fehler von gestern: gemischt ↔ unecht (F15) · richtig kürzen samt Minus (F14, F16) · Dezimal ↔ Bruch
+- ( ) und [ ]: Nr. 156 a, b · 168 e, f
+- **172 d in Etappen** (Bausteine → am Stück, 5 2/3) · Beispiel der Lehrerin (5 1/4) · 172 b (1 1/3)
+- Mini-Test 7 P (inkl. kurzer Bruchterm, Division durch 0 / Nr. 207) · Zusatz: Übung 13 Seite 1, Nr. 167
+- **Verschoben auf Tag 6:** Nr. 113 d, 147 untere Zeile, 130, 155 d, 172 c, 216 a, KT 1.22–1.24
 
 ## Tag 6 – Sa 7.11. · Vorrangregeln + Bruchterme vertiefen
 **Lernziele:** lange Terme sicher nach KlaPuStri · runde vor eckigen vor geschwungenen Klammern · Ergebnis gekürzt **und** als Dezimalzahl (Aufgabenstellung Nr. 172)
 
 - **Heft (Pflicht)**
   - Von Tag 4 verschoben: **Nr. 113 a, b** (je eine Zeile) · **Nr. 129 c** · Übung 09 Seite 1 als Zettel
+  - Von Tag 5 verschoben: **Nr. 113 d**, **147 untere Zeile**, **130**, **155 d**, **172 c**, **216 a** (Textaufgabe mit Division) · KT **1.22–1.24**
   - Varianten **Nr. 156 c, d**, **168 a–d** (S. 37/39, alle von Hand lösbar) · **Nr. 158** (Carolas Fehler finden)
   - **Nr. 172 a** · eigene Varianten im Stil von 172 d (2–3 Stück)
   - **Nr. 167** (falls an Tag 5 nicht geschafft)
