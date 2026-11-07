@@ -74,6 +74,10 @@
 | F14 | Tag 4 Aufg. 6d | (−9/5) : (−21/10): 9 und 21 durch 9 gekürzt → 2/3 | nur durch 3 kürzbar → **6/7** |
 | F15 | Tag 4 Aufg. 6f | 4 1/8 = 25/8 | 4 · 8 + 1 = **33/8** |
 | F16 | Tag 4 Aufg. 3 | −2/4 gekürzt zu 1/2 (Minus verloren) | **−1/2** |
+| F17 | Tag 5 Aufg. 4d | [8,1 − (−0,5) − 2,4] als 8,1 − 0,5 gerechnet | −(−0,5) = +0,5 → 6,2 : (−3,1) = **−2** |
+| F18 | Tag 5 Mini-Test e | (2 1/2 − (−1/4)) : (−1 3/8): Klammer nicht zuerst, nur 1/4 dividiert; außerdem 1 3/8 = 12/8 | Klammer zuerst: 11/4 : (−11/8) = **−2** |
+| F19 | Tag 6 Mini-Test e | 1,5 − 4 = +2,5 | **−2,5** (verschiedene Vorzeichen, F2-Typ) |
+| F20 | Tag 6 Mini-Test e | −5 − 2,5 = −30 | **−7,5** (Komma beachten) |
 
 → **Muster:** Die Rechenregeln sitzen, aber die **Vorzeichen** gehen verloren (F1–F3, F6). Außerdem fehlt die Sicherheit bei **Brüchen mit verschiedenen Nennern innerhalb längerer Terme** (F10, F11). Genau das kommt ganz am Ende des SA-Stoffs. Deshalb bekommen Tag 6 und 7 mehr Zeit.
 
@@ -110,7 +114,7 @@
 - Mini-Test 6 P · Zusatz: Übung 10 Seite 1
 - **Verschoben auf Tag 5/6:** Nr. 113 a, b, d · Dezimal ↔ Bruch-Diktat · Nr. 124, 125, 129 c · Übung 09 · Online-AB S37
 
-## Tag 5 – Fr 6.11. · Fehler von Tag 4 + eckige Klammern + **Monster-Bruch Nr. 172 d**
+## Tag 5 – Fr 6.11. · Fehler von Tag 4 + eckige Klammern + **Monster-Bruch Nr. 172 d** ✔ (172 d richtig! Mini-Test 3,5/7, Aufg. 7–8 nicht geschafft)
 *(umgesetzt in `Tagesübungen/Tag5_06-11_Uebung.pdf`, Entwurf: `Tag5_06-11_Entwurf.md`)*
 - Fehler von gestern: gemischt ↔ unecht (F15) · richtig kürzen samt Minus (F14, F16) · Dezimal ↔ Bruch
 - ( ) und [ ]: Nr. 156 a, b · 168 e, f
@@ -118,29 +122,20 @@
 - Mini-Test 7 P (inkl. kurzer Bruchterm, Division durch 0 / Nr. 207) · Zusatz: Übung 13 Seite 1, Nr. 167
 - **Verschoben auf Tag 6:** Nr. 113 d, 147 untere Zeile, 130, 155 d, 172 c, 216 a, KT 1.22–1.24
 
-## Tag 6 – Sa 7.11. · Vorrangregeln + Bruchterme vertiefen
-**Lernziele:** lange Terme sicher nach KlaPuStri · runde vor eckigen vor geschwungenen Klammern · Ergebnis gekürzt **und** als Dezimalzahl (Aufgabenstellung Nr. 172)
+## Tag 6 – Sa 7.11. · Fehler von Tag 5 + Wiederholung Zahlenmengen/Ordnen + [ ] + Bruchterme ✔ (Mini-Test 7/8; < > bei negativen Zahlen 4/8 falsch → F9)
+*(umgesetzt in `Tagesübungen/Tag6_07-11_Uebung.pdf`, Entwurf: `Tag6_07-11_Entwurf.md`)*
+- Fehler: gemischt → unecht (F15) · Dezimal ↔ Bruch fertig kürzen · Klammer zuerst, −(−) in Klammern (F17, F18) · Division durch 0
+- Wiederholung: Zahlenmengen-Tabelle (Nr. 18-Stil, F8) · < > = bei negativen Brüchen/Dezimalzahlen/Beträgen (F9) · Ordnen
+- [ ]: Nr. 156 c, 168 a, d · Bruchterme: Beispiel der Lehrerin, 172 b, 172 a
+- Mini-Test 8 P · Zusatz: Übung 13 Seite 1
+- **Verschoben auf Tag 7:** Nr. 172 c, 216 a, 167/158 · **Gestrichen:** 113, 129 c, 130, 147, 155 d, KT 1.22–1.27, Übung 09/12, AB Terme
 
-- **Heft (Pflicht)**
-  - Von Tag 4 verschoben: **Nr. 113 a, b** (je eine Zeile) · **Nr. 129 c** · Übung 09 Seite 1 als Zettel
-  - Von Tag 5 verschoben: **Nr. 113 d**, **147 untere Zeile**, **130**, **155 d**, **172 c**, **216 a** (Textaufgabe mit Division) · KT **1.22–1.24**
-  - Varianten **Nr. 156 c, d**, **168 a–d** (S. 37/39, alle von Hand lösbar) · **Nr. 158** (Carolas Fehler finden)
-  - **Nr. 172 a** · eigene Varianten im Stil von 172 d (2–3 Stück)
-  - **Nr. 167** (falls an Tag 5 nicht geschafft)
-- **Zettel:** **Übung 13** Seite 2 · **Übung 12** Seite 1 · **AB Terme** (Labyrinth) · Online-AB **S22** · **Pool** Nr. 25, 26
-- **Mini-Test:** KT S. 50: **1.25–1.27** (soweit ohne Taschenrechner)
-- **Zusatz:** **Übung 07** · Online-AB S41 · S. 38 Nr. 159 (Text → Term)
-
-## Tag 7 – So 8.11. · Fehlerheft + gemischte Wiederholung
-**Lernziele:** alle Fehler F1–F11 und die der letzten Tage sitzen · Merkzettel fertig
-
-- **Zuerst Fehlerheft (30 min):** F1–F13 + alle Fehler von Tag 2–6 noch einmal rechnen
-- **Heft (Pflicht):** **Nr. 172 b–d** und das Beispiel der Lehrerin noch einmal ohne nachzuschauen · je 2 Aufgaben aus jedem Thema (Zahlenmengen, Nr. 15, Betrag, Textaufgabe, Brüche +/−, · und :)
-- **Lücken aus dem Lernzielblatt schließen:** KT S. 30 **1.1, 1.2** (Zahlen auf der Zahlengeraden einzeichnen) · **KT 1.17** (3 Bedeutungen des Minus) · **Nr. 204 a–d** (S. 46, gemischt) · **Nr. 208 a** (S. 46, Vorzeichen bei mehreren Faktoren)
-- **Zettel:** **Übung 12** Seite 2 · Online-AB S25 · Pool Nr. 27
-- **Mini-Test:** KT S. 50: **1.28, 1.29** (soweit ohne Taschenrechner)
-- Zum Abschluss: **Merkzettel** selbst schreiben lassen (alle Regeln auf 1 A4-Seite, Vorlage = Theorieheft)
-- **Zusatz:** Übung 04 · Online-AB S18
+## Tag 7 – So 8.11. · Generalprobe „von allem etwas“ + Merkzettel
+*(umgesetzt in `Tagesübungen/Tag7_08-11_Uebung.pdf`, Entwurf: `Tag7_08-11_Entwurf.md`)*
+- Teil 1: Zahlenmengen · **Zahlengerade** einzeichnen/ablesen + < > + Ordnen (F9) · „liegt näher an“ (Nr. 15) · Betrag/Gegenzahl + 3 Bedeutungen des Minus (KT 1.17) · Dezimal ↔ Bruch
+- Teil 2: Dezimal-Summe · Brüche +/− · · und : inkl. Nr. 208 a · Nr. 168 d · Textaufgaben (216 a-Stil) · Nr. 172 b
+- Mini-Test 5 P (F9, F19) · **Merkzettel als letzte Seite angehängt** (nicht selbst geschrieben, Wunsch des Vaters)
+- Gestrichen: 172 c, KT 1.28/1.29, Übung 04, Pool 27
 
 ## Tag 8 – Mo 9.11. · Probe-Schularbeit (nichts Neues)
 - 50 min Probe-SA unter echten Bedingungen. **Aufbau** wie die Beispiel-SA (**Teil 1 Grundkompetenzen ~20 P**, **Teil 2 Anwendung ~28 P**, 48 P), **Inhalt** ausschließlich aus dem heurigen Stoff (Hefte)
