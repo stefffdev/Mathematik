@@ -78,6 +78,8 @@
 | F18 | Tag 5 Mini-Test e | (2 1/2 − (−1/4)) : (−1 3/8): Klammer nicht zuerst, nur 1/4 dividiert; außerdem 1 3/8 = 12/8 | Klammer zuerst: 11/4 : (−11/8) = **−2** |
 | F19 | Tag 6 Mini-Test e | 1,5 − 4 = +2,5 | **−2,5** (verschiedene Vorzeichen, F2-Typ) |
 | F20 | Tag 6 Mini-Test e | −5 − 2,5 = −30 | **−7,5** (Komma beachten) |
+| F21 | Tag 7 Aufg. 8a | 9/16 als 9/19 abgeschrieben | Angabe nach dem Abschreiben vergleichen |
+| F22 | Tag 7 Aufg. 11 | NR 14 − 9 = 5, im Term aber 15/18 | NR-Ergebnis genau übertragen |
 
 → **Muster:** Die Rechenregeln sitzen, aber die **Vorzeichen** gehen verloren (F1–F3, F6). Außerdem fehlt die Sicherheit bei **Brüchen mit verschiedenen Nennern innerhalb längerer Terme** (F10, F11). Genau das kommt ganz am Ende des SA-Stoffs. Deshalb bekommen Tag 6 und 7 mehr Zeit.
 
@@ -130,7 +132,7 @@
 - Mini-Test 8 P · Zusatz: Übung 13 Seite 1
 - **Verschoben auf Tag 7:** Nr. 172 c, 216 a, 167/158 · **Gestrichen:** 113, 129 c, 130, 147, 155 d, KT 1.22–1.27, Übung 09/12, AB Terme
 
-## Tag 7 – So 8.11. · Generalprobe „von allem etwas“ + Merkzettel
+## Tag 7 – So 8.11. · Generalprobe „von allem etwas“ + Merkzettel ✔ (MT 5/5; F9 −3/4 < −4/5 wieder falsch, F21, F22)
 *(umgesetzt in `Tagesübungen/Tag7_08-11_Uebung.pdf`, Entwurf: `Tag7_08-11_Entwurf.md`)*
 - Teil 1: Zahlenmengen · **Zahlengerade** einzeichnen/ablesen + < > + Ordnen (F9) · „liegt näher an“ (Nr. 15) · Betrag/Gegenzahl + 3 Bedeutungen des Minus (KT 1.17) · Dezimal ↔ Bruch
 - Teil 2: Dezimal-Summe · Brüche +/− · · und : inkl. Nr. 208 a · Nr. 168 d · Textaufgaben (216 a-Stil) · Nr. 172 b
@@ -170,4 +172,4 @@
 
 ## Offene Punkte
 - Lösungen zu den Heft-Varianten (z. B. 113, 129 d, 147 untere Zeile, 155 d, 156 c/d, 168 a–d, 172 a) können bei Bedarf erstellt werden → `Lösungen/`
-- Probe-SA für Tag 8 erstellen (nach obigem Bauplan)
+- Probe-SA für Tag 8: Entwurf `Tagesübungen/Tag8_09-11_Probe-SA_Entwurf.md` (Feuerwehr-Stil, Robson die Robbe) ✔ PDF: `Tagesübungen/Tag8_09-11_Probe-SA.pdf`, Lösungen: `Lösungen/Tag8_09-11_Probe-SA_Loesungen.pdf`
