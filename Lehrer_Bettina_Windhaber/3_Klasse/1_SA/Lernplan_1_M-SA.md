@@ -80,6 +80,10 @@
 | F20 | Tag 6 Mini-Test e | −5 − 2,5 = −30 | **−7,5** (Komma beachten) |
 | F21 | Tag 7 Aufg. 8a | 9/16 als 9/19 abgeschrieben | Angabe nach dem Abschreiben vergleichen |
 | F22 | Tag 7 Aufg. 11 | NR 14 − 9 = 5, im Term aber 15/18 | NR-Ergebnis genau übertragen |
+| F23 | Probe-SA 1, 12 | Minus verloren: −14/7 als +2 · 21/18 : (−14/18) als +21/18 · 18/14 | Vorzeichen zuerst vor die Klammer schreiben |
+| F24 | Probe-SA 10a | −6 + 2,5 = −8,5 | verschiedene Vorzeichen → subtrahieren: **−3,5** |
+| F25 | Probe-SA 10b | [−5 + 2 · 4 + 1] als (−5 + 2) · 4 | Punkt vor Strich: 2 · 4 zuerst → [−5 + 8 + 1] = 4 |
+| F26 | Probe-SA 6 | 3 : 8 = 0,475 · 1,8 = 1 8/10 nicht gekürzt | 30 : 8 = 3 Rest 6 → **0,375** · 1 4/5 |
 
 → **Muster:** Die Rechenregeln sitzen, aber die **Vorzeichen** gehen verloren (F1–F3, F6). Außerdem fehlt die Sicherheit bei **Brüchen mit verschiedenen Nennern innerhalb längerer Terme** (F10, F11). Genau das kommt ganz am Ende des SA-Stoffs. Deshalb bekommen Tag 6 und 7 mehr Zeit.
 
@@ -139,7 +143,7 @@
 - Mini-Test 5 P (F9, F19) · **Merkzettel als letzte Seite angehängt** (nicht selbst geschrieben, Wunsch des Vaters)
 - Gestrichen: 172 c, KT 1.28/1.29, Übung 04, Pool 27
 
-## Tag 8 – Mo 9.11. · Probe-Schularbeit (nichts Neues)
+## Tag 8 – Mo 9.11. · Probe-Schularbeit (nichts Neues) ✔ 39,5/48 = Gut (Teil 1 16/19, Teil 2 23,5/29; neue Fehler F23–F26)
 - 50 min Probe-SA unter echten Bedingungen. **Aufbau** wie die Beispiel-SA (**Teil 1 Grundkompetenzen ~20 P**, **Teil 2 Anwendung ~28 P**, 48 P), **Inhalt** ausschließlich aus dem heurigen Stoff (Hefte)
 - danach gemeinsam korrigieren, Fehler besprechen, Merkzettel durchgehen
 
