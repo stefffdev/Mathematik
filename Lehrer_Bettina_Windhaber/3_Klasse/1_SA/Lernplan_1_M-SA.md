@@ -177,3 +177,8 @@
 ## Offene Punkte
 - Lösungen zu den Heft-Varianten (z. B. 113, 129 d, 147 untere Zeile, 155 d, 156 c/d, 168 a–d, 172 a) können bei Bedarf erstellt werden → `Lösungen/`
 - Probe-SA für Tag 8: Entwurf `Tagesübungen/Tag8_09-11_Probe-SA_Entwurf.md` (Feuerwehr-Stil, Robson die Robbe) ✔ PDF: `Tagesübungen/Tag8_09-11_Probe-SA.pdf`, Lösungen: `Lösungen/Tag8_09-11_Probe-SA_Loesungen.pdf`
+
+---
+
+## Ergebnis der SA (Di 10.11.2026)
+**35/48 = Befriedigend** (Teil 1 19/25, Teil 2 16/23). Analyse und Fazit: `Analyse_1_M-SA.md`
